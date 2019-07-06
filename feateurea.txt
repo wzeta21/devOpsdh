@@ -1,0 +1,14 @@
+This is a sample text to feature A.
+
+and...
+
+
+dos ....
+
+tercero....
+
+
+El ultimito ...
+
+
+fix before release
